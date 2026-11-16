@@ -1,1 +1,276 @@
-{"source":"https://hlth.com/insights/news","updated_at":null,"articles":[]}
+{
+  "source": "https://hlth.com/insights/news",
+  "updated_at": "2026-11-16T21:20:57.802202+00:00",
+  "articles": [
+    {
+      "title": "Register | ViVE Event 2027 | Nashville, TN",
+      "date": "2027-03-17",
+      "url": "https://hlth.com/events/vive/register/",
+      "summary": "Learn about the Register at the 2027 ViVE Event in Nashville, TN occurring March 14-17. Learn more today!",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Executive Masterclass - The Great Health Recalibration (2027–2030): What Leaders Must Get Right Next",
+      "date": "2026-12-10",
+      "url": "https://hlth.com/virtual-roundtables/executive-masterclass-4-the-great-health-recalibration-2027-2030-what-leaders-must-get-right-next-2026-12-10",
+      "summary": "The end of 2026 marks a clear inflection point for healthcare. The forces that have dominated the last several years — AI at scale, metabolic medicines, wome...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Is your AI built for the complexity of healthcare?",
+      "date": "2026-12-09",
+      "url": "https://hlth.com/member-events/is-your-ai-built-for-the-complexity-of-healthcare",
+      "summary": "Healthcare’s most complex care happens in the hospital, and it’s where AI has the most to prove. Join health system leaders for an intimate dinner conversati...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Turning AI Into Action: Powering a More Connected Healthcare Ecosystem",
+      "date": "2026-11-17",
+      "url": "https://hlth.com/member-events/turning-ai-into-action-powering-a-more-connected-healthcare-ecosystem",
+      "summary": "As healthcare moves from AI pilots to operational adoption, the focus is shifting from what AI can do to how it can support everyday workflows. Connecting in...",
+      "domains": [
+        "Care Operations and Coordination"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Why “Nothing” Keeps Winning: Moving Healthcare AI from Pilot to System-Wide Impact",
+      "date": "2026-11-17",
+      "url": "https://hlth.com/member-events/stellarus-rt",
+      "summary": "Format: Invite-only executive roundtableDate: Tuesday, November 17Time: 2:00–3:30 PMLocation: HLTH USAThis invite-only roundtable will bring together senior ...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Dyania Health Partners With NVIDIA to Deploy Clinical AI Within Hospital Systems",
+      "date": "2026-11-16",
+      "url": "https://hlth.com/insights/news/dyania-health-partners-with-nvidia-to-deploy-clinical-ai-within-hospital-systems",
+      "summary": "Dyania Health has announced a collaboration with NVIDIA to bring advanced AI-powered clinical reasoning directly into hospital infrastructure, allowing healt...",
+      "domains": [
+        "Clinical Decision Support"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Doximity Partners With NewYork-Presbyterian to Expand Clinical AI Adoption",
+      "date": "2026-11-16",
+      "url": "https://hlth.com/insights/news/doximity-partners-with-newyork-presbyterian-to-expand-clinical-ai-adoption",
+      "summary": "Doximity is expanding its partnership with NewYork-Presbyterian to provide clinicians across the health system, Columbia University Vagelos College of Physic...",
+      "domains": [
+        "Clinical Decision Support"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Wolters Kluwer Acquires AgileMD for Up to $100M to Expand AI-Powered Clinical Decision Support",
+      "date": "2026-11-16",
+      "url": "https://hlth.com/insights/news/wolters-kluwer-acquires-agilemd-for-up-to-100m-to-expand-ai-powered-clinical-decision-support",
+      "summary": "Wolters Kluwer Health has signed a definitive agreement to acquire AgileMD, a clinical decision support company, for up to $100 million. The transaction incl...",
+      "domains": [
+        "Clinical Decision Support"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Beyond AI Summaries: Smarter Pharma Decisions With Real-Time Intelligence",
+      "date": "2026-11-13",
+      "url": "https://hlth.com/insights/podcasts/beyond-ai-summaries-smarter-pharma-decisions-with-real-time-intelligence",
+      "summary": "In life sciences, making the right decision means connecting clinical research, competitive intelligence and market signals before the picture changes.In thi...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Nanopath Raises $25M to Advance 15-Minute Vaginitis Diagnostic Test",
+      "date": "2026-11-13",
+      "url": "https://hlth.com/insights/news/nanopath-raises-25m-to-advance-15-minute-vaginitis-diagnostic-test",
+      "summary": "Massachusetts-based biotechnology company Nanopath has secured $25 million in Series B financing, including $2 million in non-dilutive grant funding, to adva...",
+      "domains": [
+        "Clinical Decision Support"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Orakl Oncology Raises $34M to Expand AI-Powered Cancer Clinical Trial Prediction Platform",
+      "date": "2026-11-13",
+      "url": "https://hlth.com/insights/news/orakl-oncology-raises-34m-to-expand-ai-powered-cancer-clinical-trial-prediction-platform",
+      "summary": "Paris-based biotechnology company Orakl Oncology has raised $34 million in an oversubscribed Series A financing round, bringing its total funding to $50 mill...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "ALIS by Medtelligent Integrates with Anthropic’s Claude to Expand AI Access in Senior Living",
+      "date": "2026-11-13",
+      "url": "https://hlth.com/insights/news/alis-by-medtelligent-integrates-with-anthropic-s-claude-to-expand-ai-access-in-senior-living",
+      "summary": "ALIS by Medtelligent, an enterprise software provider for assisted living, memory care, and independent living, has announced its integration with Anthropic’...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Zus Health Raises $33M to Expand AI-Powered Healthcare Data Platform",
+      "date": "2026-11-12",
+      "url": "https://hlth.com/insights/news/zus-health-raises-33m-to-expand-ai-powered-healthcare-data-platform",
+      "summary": "Zus Health, a healthcare technology company founded by former athenahealth CEO Jonathan Bush, has raised $33 million in Series B financing, bringing its tota...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "23andMe and Scripps Research Partner on Digital Alzheimer's Prevention Study",
+      "date": "2026-11-12",
+      "url": "https://hlth.com/insights/news/23andme-and-scripps-research-partner-on-digital-alzheimer-s-prevention-study",
+      "summary": "The 23andMe Research Institute has partnered with the Scripps Research Translational Institute (SRTI) to investigate whether digitally delivered lifestyle in...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "McKinsey Projects U.S. Healthcare EBITDA Growth as AI Reshapes Industry Economics",
+      "date": "2026-11-12",
+      "url": "https://hlth.com/insights/news/mckinsey-projects-u-s-healthcare-ebitda-growth-as-ai-reshapes-industry-economics",
+      "summary": "McKinsey & Company has released its 2027 U.S. healthcare outlook, forecasting significant changes in industry profitability as artificial intelligence (AI), ...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Fitnescity Health Launches Whole-Body MRI Screening Across Nearly 100 U.S. Locations",
+      "date": "2026-11-11",
+      "url": "https://hlth.com/insights/news/fitnescity-health-launches-whole-body-mri-screening-across-nearly-100-u-s-locations",
+      "summary": "Fitnescity Health has announced the nationwide launch of whole-body MRI screening, expanding its preventive imaging services to nearly 100 locations across t...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Google Cloud Launches Gemini for Healthcare, Integrating AI Workflows Across Epic, Oracle Health and Enterprise Systems",
+      "date": "2026-11-11",
+      "url": "https://hlth.com/insights/news/google-cloud-launches-gemini-for-healthcare-integrating-ai-workflows-across-epic-oracle-health-and-enterprise-systems",
+      "summary": "Google Cloud has announced the U.S. preview of Gemini for Healthcare, an enterprise AI platform designed to streamline clinical and administrative workflows ...",
+      "domains": [
+        "Care Operations and Coordination"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Oura to Acquire Counsel Health for $625M, Integrating AI-Powered Primary Care with Continuous Biometric Monitoring",
+      "date": "2026-11-11",
+      "url": "https://hlth.com/insights/news/oura-to-acquire-counsel-health-for-625m-integrating-ai-powered-primary-care-with-continuous-biometric-monitoring",
+      "summary": "Oura has entered into a definitive agreement to acquire AI-powered primary care provider Counsel Health for $625 million in cash, subject to customary adjust...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Lilly’s Foundayo Significantly Reduces Sleep Apnea Severity Beyond Weight Loss Benefits",
+      "date": "2026-11-10",
+      "url": "https://hlth.com/insights/news/lilly-s-foundayo-significantly-reduces-sleep-apnea-severity-beyond-weight-loss-benefits",
+      "summary": "Eli Lilly has announced positive Phase 3 results from its ATTAIN-OSA clinical program, showing that Foundayo (orforglipron), a once-daily oral GLP-1 medicati...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "AWS Launches $100M Initiative to Expand AI-Powered Healthcare Access Globally",
+      "date": "2026-11-10",
+      "url": "https://hlth.com/insights/news/aws-launches-100m-initiative-to-expand-ai-powered-healthcare-access-globally",
+      "summary": "Amazon Web Services (AWS) has launched the AWS Health Impact Initiative, a five-year, $100 million commitment to help healthcare organizations use artificial...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "HealthTap Launches Virtual Primary Care Program for Medicare Advantage Members",
+      "date": "2026-11-10",
+      "url": "https://hlth.com/insights/news/healthtap-launches-virtual-primary-care-program-for-medicare-advantage-members",
+      "summary": "HealthTap has launched a virtual primary care program designed for Medicare Advantage health plans, aiming to connect members with dedicated primary care phy...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Google DeepMind Expands Antigravity With AI Drug Discovery Tools",
+      "date": "2026-11-09",
+      "url": "https://hlth.com/insights/news/google-deepmind-expands-antigravity-with-ai-drug-discovery-tools",
+      "summary": "Google DeepMind has introduced new AI-powered drug discovery tools within its Antigravity platform, allowing researchers to use autonomous agents to analyze ...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Heidi Cuts 18% of Workforce as Two Co-Founders Prepare to Exit Following A$475M Funding Round",
+      "date": "2026-11-09",
+      "url": "https://hlth.com/insights/news/heidi-cuts-18-of-workforce-as-two-co-founders-prepare-to-exit-following-a-475m-funding-round",
+      "summary": "Heidi, the Melbourne-based healthcare AI company specializing in automated clinical documentation, is cutting approximately 18% of its global workforce as pa...",
+      "domains": [
+        "Clinical Decision Support"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Hims & Hers Partners With Eli Lilly to Offer Branded Weight-Loss Medications",
+      "date": "2026-11-09",
+      "url": "https://hlth.com/insights/news/hims-and-hers-partners-with-eli-lilly-to-offer-branded-weight-loss-medications",
+      "summary": "Hims & Hers has partnered with Eli Lilly to offer the pharmaceutical company's FDA-approved obesity treatments directly through its digital health platform. ...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Chai Discovery and Roche Partner to Advance AI-Driven Drug Discovery",
+      "date": "2026-11-06",
+      "url": "https://hlth.com/insights/news/chai-discovery-and-roche-partner-to-advance-ai-driven-drug-discovery",
+      "summary": "Chai Discovery, a San Francisco-based artificial intelligence company specializing in protein-based therapeutics, has announced a collaboration with Roche to...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "CMS Finalizes 2027 Physician Fee Schedule with Reforms to Value-Based Care and Medicare Payments",
+      "date": "2026-11-06",
+      "url": "https://hlth.com/insights/news/cms-finalizes-2027-physician-fee-schedule-with-reforms-to-value-based-care-and-medicare-payments",
+      "summary": "The Centers for Medicare & Medicaid Services (CMS) has finalized the Calendar Year (CY) 2027 Medicare Physician Fee Schedule, introducing changes to clinicia...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Ellipsis Health Acquires Kouper Health to Integrate AI Voice Technology with Care Navigation",
+      "date": "2026-11-06",
+      "url": "https://hlth.com/insights/news/ellipsis-health-acquires-kouper-health-to-integrate-ai-voice-technology-with-care-navigation",
+      "summary": "Ellipsis Health, a San Francisco-based developer of AI-powered voice technology, has acquired Kouper Health, a New York-based provider of AI-enabled care nav...",
+      "domains": [
+        "Patient Access and Engagement"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    }
+  ]
+}
