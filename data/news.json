@@ -1,6 +1,6 @@
 {
   "source": "https://hlth.com/insights/news",
-  "updated_at": "2026-11-17T01:13:27.705884+00:00",
+  "updated_at": "2026-11-17T01:20:40.823614+00:00",
   "articles": [
     {
       "title": "Register | ViVE Event 2027 | Nashville, TN",
@@ -208,7 +208,7 @@
       "url": "https://hlth.com/insights/news/healthtap-launches-virtual-primary-care-program-for-medicare-advantage-members",
       "summary": "HealthTap has launched a virtual primary care program designed for Medicare Advantage health plans, aiming to connect members with dedicated primary care phy...",
       "domains": [
-        "Uncategorized"
+        "Virtual & Hybrid Care Delivery"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
@@ -268,7 +268,8 @@
       "url": "https://hlth.com/insights/news/ellipsis-health-acquires-kouper-health-to-integrate-ai-voice-technology-with-care-navigation",
       "summary": "Ellipsis Health, a San Francisco-based developer of AI-powered voice technology, has acquired Kouper Health, a New York-based provider of AI-enabled care nav...",
       "domains": [
-        "Patient Access and Engagement"
+        "Patient Access and Engagement",
+        "Care Operations and Coordination"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     }
