@@ -1,12 +1,22 @@
 {
   "source": "https://hlth.com/insights/news",
-  "updated_at": "2026-11-17T01:25:00.059300+00:00",
+  "updated_at": "2026-11-17T02:02:52.497721+00:00",
   "articles": [
     {
       "title": "Register | ViVE Event 2027 | Nashville, TN",
       "date": "2027-03-17",
       "url": "https://hlth.com/events/vive/register/",
       "summary": "Learn about the Register at the 2027 ViVE Event in Nashville, TN occurring March 14-17. Learn more today!",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Healthcare AI at an Inflection Point: What's Next?",
+      "date": "2026-12-11",
+      "url": "https://hlth.com/webinars/healthcare-ai-at-an-inflection-point-what-s-next",
+      "summary": "What if today's most transformative healthcare AI innovations are just the beginning? As AI evolves from documenting encounters and answering questions to re...",
       "domains": [
         "Uncategorized"
       ],
@@ -37,16 +47,6 @@
       "date": "2026-12-03",
       "url": "https://hlth.com/webinars/protecting-the-bedside-building-cyber-resilience-for-connected-medical-devices",
       "summary": "Patient monitors and other connected medical devices have become inseparable from hospital care and from the technology environment supporting it. Their conn...",
-      "domains": [
-        "Uncategorized"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "If AI Can Do the Work, What Is the Organization For?",
-      "date": "2026-11-17",
-      "url": "https://hlth.com/member-events/if-ai-can-do-the-work-what-is-the-organization-for",
-      "summary": "Rethinking Work and Ambition in Healthcare and Life SciencesDeveloping treatments, generating evidence, and helping patients access care require specialized ...",
       "domains": [
         "Uncategorized"
       ],
