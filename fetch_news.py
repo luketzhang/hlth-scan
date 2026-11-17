@@ -11,13 +11,14 @@ SOURCE = 'https://hlth.com/insights/news'
 OUTPUT = Path(__file__).parent / 'data' / 'news.json'
 HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; HLTHNewsDashboard/2.0; public news aggregation)'}
 DOMAINS = {
- 'Patient Access and Engagement': ['patient access','patient engagement','patient portal','appointment','scheduling','navigation','patient experience','patient communication','consumer health','health literacy'],
- 'Clinical Decision Support': ['clinical decision','clinical ai','diagnostic','diagnosis','decision support','clinical workflow ai','radiology ai','clinical documentation','precision medicine','treatment recommendation'],
- 'Behavioral Health & Digital Therapeutics': ['behavioral health','mental health','psychiatr','psycholog','digital therapeutic','substance use','addiction','depression','anxiety','therapy app'],
- 'Care Operations and Coordination': ['care coordination','care management','referral','discharge','hospital operations','workflow','staffing','revenue cycle','prior authorization','care team','administrative'],
- 'Virtual & Hybrid Care Delivery': ['telehealth','telemedicine','virtual care','virtual health','virtual-first','hybrid care','online consultation','digital clinic','virtual visit'],
- 'Remote Monitoring': ['remote patient monitoring','remote monitoring','wearable','connected device','continuous monitoring','home monitoring','sensor','digital biomarker','at-home monitoring'],
+ 'Patient Access and Engagement': ['patient access','patient engagement','patient portal','appointment','scheduling','navigation','patient experience','patient communication','consumer health','health literacy','patient outreach','patient journey','patient-facing','patient activation','patient intake','patient acquisition','access to care','benefits navigation','price transparency','patient support'],
+ 'Clinical Decision Support': ['clinical decision','clinical ai','diagnostic','diagnosis','decision support','clinical workflow ai','radiology ai','clinical documentation','precision medicine','treatment recommendation','clinical intelligence','physician copilot','medical imaging','clinical guidance','decision-making','clinical algorithm','clinical assistant','pathology ai','risk stratification','predictive analytics','ambient ai','ai scribe','clinical reasoning'],
+ 'Behavioral Health & Digital Therapeutics': ['behavioral health','mental health','psychiatr','psycholog','digital therapeutic','substance use','addiction','depression','anxiety','therapy app','cognitive behavioral','mental wellness','digital treatment','digital therapeutics','autism','adhd','behavior change','psychotherapy'],
+ 'Care Operations and Coordination': ['care coordination','care management','referral','discharge','hospital operations','workflow','staffing','revenue cycle','prior authorization','care team','administrative','population health','utilization management','clinical operations','hospital efficiency','provider productivity','ehr','electronic health record','interoperability','health information exchange','care transition','claims processing','healthcare workforce','patient flow','practice management','case management','care navigation'],
+ 'Virtual & Hybrid Care Delivery': ['telehealth','telemedicine','virtual care','virtual health','virtual-first','hybrid care','online consultation','digital clinic','virtual visit','virtual primary care','online care','digital-first','video consultation','virtual nursing','virtual hospital','hospital at home','home-based care','virtual specialty','online therapy'],
+ 'Remote Monitoring': ['remote patient monitoring','remote monitoring','wearable','connected device','continuous monitoring','home monitoring','sensor','digital biomarker','at-home monitoring','smartwatch','smart watch','connected health','biosensor','glucose monitor','blood pressure monitor','cardiac monitor','monitoring platform','patient monitoring','remote diagnostics','continuous glucose'],
 }
+
 DATE_RE = re.compile(r'\b(\d{1,2}\s+[A-Za-z]{3,9}\s+20\d{2})\b')
 SESSION = requests.Session()
 SESSION.headers.update(HEADERS)
@@ -52,14 +53,16 @@ def summary_for(soup):
     return clean(' '.join(paragraphs[:2]))[:420] or 'Open the original article for details.'
 
 def classify(title, summary):
-    text = (title+' '+summary).lower()
+    title_text = title.lower()
+    text = (title + ' ' + summary).lower()
     scored = []
     for domain, keywords in DOMAINS.items():
-        score = sum((3 if phrase in title.lower() else 1) for phrase in keywords if phrase in text)
-        if score: scored.append((score,domain))
+        score = sum((4 if phrase in title_text else 2) for phrase in keywords if phrase in text)
+        if score: scored.append((score, domain))
     if not scored: return ['Uncategorized']
     scored.sort(reverse=True)
-    return [domain for score,domain in scored if score >= max(1,scored[0][0] * 0.4)][:3]
+    best = scored[0][0]
+    return [domain for score, domain in scored if score >= max(2, best * 0.35)][:3]
 
 def candidates(soup):
     result, seen = [], set()
