@@ -1,6 +1,6 @@
 {
   "source": "https://hlth.com/insights/news",
-  "updated_at": "2026-11-17T00:27:08.665234+00:00",
+  "updated_at": "2026-11-17T00:48:36.854064+00:00",
   "articles": [
     {
       "title": "Register | ViVE Event 2027 | Nashville, TN",
@@ -33,10 +33,10 @@
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
     {
-      "title": "Closing the Gap to 5 Stars: How Plans and Pharmacies Can Move Faster Together",
-      "date": "2026-11-17",
-      "url": "https://hlth.com/member-events/advancing-population-health",
-      "summary": "For a health plan, the 4 Star line decides bonus payments and the rebate that funds member benefits. Three triple weighted Part D measures — diabetes, blood ...",
+      "title": "Protecting the Bedside: Building Cyber Resilience for Connected Medical Devices",
+      "date": "2026-12-03",
+      "url": "https://hlth.com/webinars/protecting-the-bedside-building-cyber-resilience-for-connected-medical-devices",
+      "summary": "Patient monitors and other connected medical devices have become inseparable from hospital care and from the technology environment supporting it. Their conn...",
       "domains": [
         "Uncategorized"
       ],
@@ -49,6 +49,16 @@
       "summary": "Rethinking Work and Ambition in Healthcare and Life SciencesDeveloping treatments, generating evidence, and helping patients access care require specialized ...",
       "domains": [
         "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "The Missing Ingredient in Healthcare AI: Workflows That Learn",
+      "date": "2026-11-17",
+      "url": "https://hlth.com/insights/articles/the-missing-ingredient-in-healthcare-ai-workflows-that-learn",
+      "summary": "Hospitals lose an estimated 3% to 5% of revenue to leakage each year, according to HFMA. Healthcare doesn't have an AI shortage: vendor after vendor claims m...",
+      "domains": [
+        "Care Operations and Coordination"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
@@ -79,16 +89,6 @@
       "summary": "Wolters Kluwer Health has signed a definitive agreement to acquire AgileMD, a clinical decision support company, for up to $100 million. The transaction incl...",
       "domains": [
         "Clinical Decision Support"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "Beyond AI Summaries: Smarter Pharma Decisions With Real-Time Intelligence",
-      "date": "2026-11-13",
-      "url": "https://hlth.com/insights/podcasts/beyond-ai-summaries-smarter-pharma-decisions-with-real-time-intelligence",
-      "summary": "In life sciences, making the right decision means connecting clinical research, competitive intelligence and market signals before the picture changes.In thi...",
-      "domains": [
-        "Uncategorized"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
