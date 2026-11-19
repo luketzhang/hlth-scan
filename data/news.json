@@ -1,6 +1,6 @@
 {
   "source": "https://hlth.com/insights/news",
-  "updated_at": "2026-11-19T09:35:54.605835+00:00",
+  "updated_at": "2026-11-19T10:38:03.512118+00:00",
   "articles": [
     {
       "title": "Register | ViVE Event 2027 | Nashville, TN",
@@ -49,6 +49,36 @@
       "summary": "Patient monitors and other connected medical devices have become inseparable from hospital care and from the technology environment supporting it. Their conn...",
       "domains": [
         "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Isomorphic Labs Secures $5B to Accelerate AI-Powered Drug Discovery",
+      "date": "2026-11-19",
+      "url": "https://hlth.com/insights/news/isomorphic-labs-secures-5b-to-accelerate-ai-powered-drug-discovery",
+      "summary": "Isomorphic Labs has raised $5 billion in new financing to accelerate the development of its AI-powered drug discovery platform and expand its pharmaceutical ...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "UnitedHealthcare Launches Community Pharmacy-Based Care Model",
+      "date": "2026-11-19",
+      "url": "https://hlth.com/insights/news/unitedhealthcare-launches-community-pharmacy-based-care-model",
+      "summary": "UnitedHealthcare has introduced a new care model that places community pharmacies at the center of preventive healthcare and chronic disease management. The ...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Noom Introduces Noom Band to Expand Metabolic Health Monitoring",
+      "date": "2026-11-19",
+      "url": "https://hlth.com/insights/news/noom-introduces-noom-band-to-expand-metabolic-health-monitoring",
+      "summary": "Noom has launched Noom Band, a wearable device designed to integrate continuous health monitoring into its metabolic health platform. Developed in partnershi...",
+      "domains": [
+        "Remote Monitoring"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
@@ -154,22 +184,22 @@
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
     {
-      "title": "Nanopath Raises $25M to Advance 15-Minute Vaginitis Diagnostic Test",
-      "date": "2026-11-13",
-      "url": "https://hlth.com/insights/news/nanopath-raises-25m-to-advance-15-minute-vaginitis-diagnostic-test",
-      "summary": "Massachusetts-based biotechnology company Nanopath has secured $25 million in Series B financing, including $2 million in non-dilutive grant funding, to adva...",
-      "domains": [
-        "Clinical Decision Support"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
       "title": "Orakl Oncology Raises $34M to Expand AI-Powered Cancer Clinical Trial Prediction Platform",
       "date": "2026-11-13",
       "url": "https://hlth.com/insights/news/orakl-oncology-raises-34m-to-expand-ai-powered-cancer-clinical-trial-prediction-platform",
       "summary": "Paris-based biotechnology company Orakl Oncology has raised $34 million in an oversubscribed Series A financing round, bringing its total funding to $50 mill...",
       "domains": [
         "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Nanopath Raises $25M to Advance 15-Minute Vaginitis Diagnostic Test",
+      "date": "2026-11-13",
+      "url": "https://hlth.com/insights/news/nanopath-raises-25m-to-advance-15-minute-vaginitis-diagnostic-test",
+      "summary": "Massachusetts-based biotechnology company Nanopath has secured $25 million in Series B financing, including $2 million in non-dilutive grant funding, to adva...",
+      "domains": [
+        "Clinical Decision Support"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
@@ -240,36 +270,6 @@
       "summary": "Oura has entered into a definitive agreement to acquire AI-powered primary care provider Counsel Health for $625 million in cash, subject to customary adjust...",
       "domains": [
         "Uncategorized"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "Lilly’s Foundayo Significantly Reduces Sleep Apnea Severity Beyond Weight Loss Benefits",
-      "date": "2026-11-10",
-      "url": "https://hlth.com/insights/news/lilly-s-foundayo-significantly-reduces-sleep-apnea-severity-beyond-weight-loss-benefits",
-      "summary": "Eli Lilly has announced positive Phase 3 results from its ATTAIN-OSA clinical program, showing that Foundayo (orforglipron), a once-daily oral GLP-1 medicati...",
-      "domains": [
-        "Uncategorized"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "AWS Launches $100M Initiative to Expand AI-Powered Healthcare Access Globally",
-      "date": "2026-11-10",
-      "url": "https://hlth.com/insights/news/aws-launches-100m-initiative-to-expand-ai-powered-healthcare-access-globally",
-      "summary": "Amazon Web Services (AWS) has launched the AWS Health Impact Initiative, a five-year, $100 million commitment to help healthcare organizations use artificial...",
-      "domains": [
-        "Uncategorized"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "HealthTap Launches Virtual Primary Care Program for Medicare Advantage Members",
-      "date": "2026-11-10",
-      "url": "https://hlth.com/insights/news/healthtap-launches-virtual-primary-care-program-for-medicare-advantage-members",
-      "summary": "HealthTap has launched a virtual primary care program designed for Medicare Advantage health plans, aiming to connect members with dedicated primary care phy...",
-      "domains": [
-        "Virtual & Hybrid Care Delivery"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     }
