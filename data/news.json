@@ -1,6 +1,6 @@
 {
   "source": "https://hlth.com/insights/news",
-  "updated_at": "2026-11-20T00:12:59.630488+00:00",
+  "updated_at": "2026-11-20T01:25:32.011912+00:00",
   "articles": [
     {
       "title": "Register | ViVE Event 2027 | Nashville, TN",
@@ -53,6 +53,16 @@
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
     {
+      "title": "From Complex Health Data to Trusted Intelligence: Advancing Healthcare Research and Innovation",
+      "date": "2026-11-20",
+      "url": "https://hlth.com/insights/articles/from-complex-health-data-to-trusted-intelligence-advancing-healthcare-research-and-innovation",
+      "summary": "As healthcare organizations seek to unlock more value from their health data, many hit the same wall: the data they have is fragmented and inconsistent, and ...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
       "title": "Isomorphic Labs Secures $5B to Accelerate AI-Powered Drug Discovery",
       "date": "2026-11-19",
       "url": "https://hlth.com/insights/news/isomorphic-labs-secures-5b-to-accelerate-ai-powered-drug-discovery",
@@ -79,16 +89,6 @@
       "summary": "Noom has launched Noom Band, a wearable device designed to integrate continuous health monitoring into its metabolic health platform. Developed in partnershi...",
       "domains": [
         "Remote Monitoring"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "Building Obesity Care That Lasts",
-      "date": "2026-11-18",
-      "url": "https://hlth.com/insights/articles/building-obesity-care-that-lasts",
-      "summary": "Starting obesity treatment is only the beginning. Patients need support to navigate access, treatment demands and everyday barriers over time, and that respo...",
-      "domains": [
-        "Uncategorized"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
