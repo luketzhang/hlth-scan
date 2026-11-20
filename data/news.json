@@ -1,6 +1,6 @@
 {
   "source": "https://hlth.com/insights/news",
-  "updated_at": "2026-11-20T08:57:50.435370+00:00",
+  "updated_at": "2026-11-20T09:56:20.813951+00:00",
   "articles": [
     {
       "title": "Register | ViVE Event 2027 | Nashville, TN",
@@ -63,12 +63,32 @@
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
     {
-      "title": "Isomorphic Labs Secures $5B to Accelerate AI-Powered Drug Discovery",
-      "date": "2026-11-19",
-      "url": "https://hlth.com/insights/news/isomorphic-labs-secures-5b-to-accelerate-ai-powered-drug-discovery",
-      "summary": "Isomorphic Labs has raised $5 billion in new financing to accelerate the development of its AI-powered drug discovery platform and expand its pharmaceutical ...",
+      "title": "Banner Health Invests in Layer Health to Expand AI-Powered Clinical Registries",
+      "date": "2026-11-20",
+      "url": "https://hlth.com/insights/news/banner-health-invests-in-layer-health-to-expand-ai-powered-clinical-registries",
+      "summary": "Banner Health has made a strategic investment in Layer Health and entered a multi-year partnership to deploy the company's AI-powered clinical registry techn...",
       "domains": [
         "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Cigna Group Foundation Commits $31.5M to Expand Community Health Programs Across 10 States",
+      "date": "2026-11-20",
+      "url": "https://hlth.com/insights/news/cigna-group-foundation-commits-31-5m-to-expand-community-health-programs-across-10-states",
+      "summary": "The Cigna Group Foundation has announced $31.5 million in grant funding over the next three years to support nonprofit organizations addressing critical comm...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Tennr and OpenAI Partner to Test AI Agents for Prior Authorization Automation",
+      "date": "2026-11-20",
+      "url": "https://hlth.com/insights/news/tennr-and-openai-partner-to-test-ai-agents-for-prior-authorization-automation",
+      "summary": "Tennr has partnered with OpenAI to test AI agents capable of completing prior authorization tasks, aiming to reduce administrative workloads and accelerate p...",
+      "domains": [
+        "Care Operations and Coordination"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
@@ -77,6 +97,16 @@
       "date": "2026-11-19",
       "url": "https://hlth.com/insights/news/unitedhealthcare-launches-community-pharmacy-based-care-model",
       "summary": "UnitedHealthcare has introduced a new care model that places community pharmacies at the center of preventive healthcare and chronic disease management. The ...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Isomorphic Labs Secures $5B to Accelerate AI-Powered Drug Discovery",
+      "date": "2026-11-19",
+      "url": "https://hlth.com/insights/news/isomorphic-labs-secures-5b-to-accelerate-ai-powered-drug-discovery",
+      "summary": "Isomorphic Labs has raised $5 billion in new financing to accelerate the development of its AI-powered drug discovery platform and expand its pharmaceutical ...",
       "domains": [
         "Uncategorized"
       ],
@@ -184,22 +214,22 @@
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
     {
-      "title": "Orakl Oncology Raises $34M to Expand AI-Powered Cancer Clinical Trial Prediction Platform",
-      "date": "2026-11-13",
-      "url": "https://hlth.com/insights/news/orakl-oncology-raises-34m-to-expand-ai-powered-cancer-clinical-trial-prediction-platform",
-      "summary": "Paris-based biotechnology company Orakl Oncology has raised $34 million in an oversubscribed Series A financing round, bringing its total funding to $50 mill...",
-      "domains": [
-        "Uncategorized"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
       "title": "Nanopath Raises $25M to Advance 15-Minute Vaginitis Diagnostic Test",
       "date": "2026-11-13",
       "url": "https://hlth.com/insights/news/nanopath-raises-25m-to-advance-15-minute-vaginitis-diagnostic-test",
       "summary": "Massachusetts-based biotechnology company Nanopath has secured $25 million in Series B financing, including $2 million in non-dilutive grant funding, to adva...",
       "domains": [
         "Clinical Decision Support"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Orakl Oncology Raises $34M to Expand AI-Powered Cancer Clinical Trial Prediction Platform",
+      "date": "2026-11-13",
+      "url": "https://hlth.com/insights/news/orakl-oncology-raises-34m-to-expand-ai-powered-cancer-clinical-trial-prediction-platform",
+      "summary": "Paris-based biotechnology company Orakl Oncology has raised $34 million in an oversubscribed Series A financing round, bringing its total funding to $50 mill...",
+      "domains": [
+        "Uncategorized"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
@@ -238,36 +268,6 @@
       "date": "2026-11-12",
       "url": "https://hlth.com/insights/news/mckinsey-projects-u-s-healthcare-ebitda-growth-as-ai-reshapes-industry-economics",
       "summary": "McKinsey & Company has released its 2027 U.S. healthcare outlook, forecasting significant changes in industry profitability as artificial intelligence (AI), ...",
-      "domains": [
-        "Uncategorized"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "Fitnescity Health Launches Whole-Body MRI Screening Across Nearly 100 U.S. Locations",
-      "date": "2026-11-11",
-      "url": "https://hlth.com/insights/news/fitnescity-health-launches-whole-body-mri-screening-across-nearly-100-u-s-locations",
-      "summary": "Fitnescity Health has announced the nationwide launch of whole-body MRI screening, expanding its preventive imaging services to nearly 100 locations across t...",
-      "domains": [
-        "Uncategorized"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "Google Cloud Launches Gemini for Healthcare, Integrating AI Workflows Across Epic, Oracle Health and Enterprise Systems",
-      "date": "2026-11-11",
-      "url": "https://hlth.com/insights/news/google-cloud-launches-gemini-for-healthcare-integrating-ai-workflows-across-epic-oracle-health-and-enterprise-systems",
-      "summary": "Google Cloud has announced the U.S. preview of Gemini for Healthcare, an enterprise AI platform designed to streamline clinical and administrative workflows ...",
-      "domains": [
-        "Care Operations and Coordination"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "Oura to Acquire Counsel Health for $625M, Integrating AI-Powered Primary Care with Continuous Biometric Monitoring",
-      "date": "2026-11-11",
-      "url": "https://hlth.com/insights/news/oura-to-acquire-counsel-health-for-625m-integrating-ai-powered-primary-care-with-continuous-biometric-monitoring",
-      "summary": "Oura has entered into a definitive agreement to acquire AI-powered primary care provider Counsel Health for $625 million in cash, subject to customary adjust...",
       "domains": [
         "Uncategorized"
       ],
