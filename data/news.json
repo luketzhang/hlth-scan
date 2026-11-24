@@ -1,6 +1,6 @@
 {
   "source": "https://hlth.com/insights/news",
-  "updated_at": "2026-11-24T08:35:10.139525+00:00",
+  "updated_at": "2026-11-24T09:47:38.178041+00:00",
   "articles": [
     {
       "title": "Register | ViVE Event 2027 | Nashville, TN",
@@ -53,13 +53,32 @@
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
     {
-      "title": "DiMe Launches Framework to Guide AI Investment in Healthcare Navigation",
-      "date": "2026-11-23",
-      "url": "https://hlth.com/insights/news/dime-launches-framework-to-guide-ai-investment-in-healthcare-navigation",
-      "summary": "The Digital Medicine Society (DiMe) has released an open-access framework designed to help healthcare organizations evaluate AI investments in patient naviga...",
+      "title": "Innovaccer Integrates Grok Voice to Expand AI-Powered Healthcare Automation",
+      "date": "2026-11-24",
+      "url": "https://hlth.com/insights/news/innovaccer-integrates-grok-voice-to-expand-ai-powered-healthcare-automation",
+      "summary": "Innovaccer has expanded its Gravity Voice AI platform through a new integration with Grok Voice, bringing advanced conversational AI capabilities into health...",
       "domains": [
-        "Patient Access and Engagement",
-        "Care Operations and Coordination"
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Paradromics Partners With NVIDIA to Advance AI-Powered Brain-Computer Interfaces",
+      "date": "2026-11-24",
+      "url": "https://hlth.com/insights/news/paradromics-partners-with-nvidia-to-advance-ai-powered-brain-computer-interfaces",
+      "summary": "Paradromics has announced a technical collaboration with NVIDIA to advance its brain-computer interface (BCI) technology, focusing on faster neural signal pr...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "DocGo to Sell Cardiac RMS Monitoring Business for Up to $25M",
+      "date": "2026-11-24",
+      "url": "https://hlth.com/insights/news/docgo-to-sell-cardiac-rms-monitoring-business-for-up-to-25m",
+      "summary": "DocGo has signed a definitive agreement to sell the cardiac implantable electronic device (CIED) monitoring business of its majority-owned subsidiary, Cardia...",
+      "domains": [
+        "Uncategorized"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
@@ -80,6 +99,17 @@
       "summary": "Aetna has introduced Aetna For You and Baby, a new maternal health program designed to provide coordinated care for pregnant women, new mothers and infants. ...",
       "domains": [
         "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "DiMe Launches Framework to Guide AI Investment in Healthcare Navigation",
+      "date": "2026-11-23",
+      "url": "https://hlth.com/insights/news/dime-launches-framework-to-guide-ai-investment-in-healthcare-navigation",
+      "summary": "The Digital Medicine Society (DiMe) has released an open-access framework designed to help healthcare organizations evaluate AI investments in patient naviga...",
+      "domains": [
+        "Patient Access and Engagement",
+        "Care Operations and Coordination"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
@@ -241,36 +271,6 @@
       "summary": "Dyania Health has announced a collaboration with NVIDIA to bring advanced AI-powered clinical reasoning directly into hospital infrastructure, allowing healt...",
       "domains": [
         "Clinical Decision Support"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "Orakl Oncology Raises $34M to Expand AI-Powered Cancer Clinical Trial Prediction Platform",
-      "date": "2026-11-13",
-      "url": "https://hlth.com/insights/news/orakl-oncology-raises-34m-to-expand-ai-powered-cancer-clinical-trial-prediction-platform",
-      "summary": "Paris-based biotechnology company Orakl Oncology has raised $34 million in an oversubscribed Series A financing round, bringing its total funding to $50 mill...",
-      "domains": [
-        "Uncategorized"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "Nanopath Raises $25M to Advance 15-Minute Vaginitis Diagnostic Test",
-      "date": "2026-11-13",
-      "url": "https://hlth.com/insights/news/nanopath-raises-25m-to-advance-15-minute-vaginitis-diagnostic-test",
-      "summary": "Massachusetts-based biotechnology company Nanopath has secured $25 million in Series B financing, including $2 million in non-dilutive grant funding, to adva...",
-      "domains": [
-        "Clinical Decision Support"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "ALIS by Medtelligent Integrates with Anthropic’s Claude to Expand AI Access in Senior Living",
-      "date": "2026-11-13",
-      "url": "https://hlth.com/insights/news/alis-by-medtelligent-integrates-with-anthropic-s-claude-to-expand-ai-access-in-senior-living",
-      "summary": "ALIS by Medtelligent, an enterprise software provider for assisted living, memory care, and independent living, has announced its integration with Anthropic’...",
-      "domains": [
-        "Uncategorized"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     }
