@@ -1,6 +1,6 @@
 {
   "source": "https://hlth.com/insights/news",
-  "updated_at": "2026-11-25T08:11:01.933548+00:00",
+  "updated_at": "2026-11-25T09:25:10.332422+00:00",
   "articles": [
     {
       "title": "Register | ViVE Event 2027 | Nashville, TN",
@@ -53,10 +53,30 @@
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
     {
-      "title": "Innovaccer Integrates Grok Voice to Expand AI-Powered Healthcare Automation",
-      "date": "2026-11-24",
-      "url": "https://hlth.com/insights/news/innovaccer-integrates-grok-voice-to-expand-ai-powered-healthcare-automation",
-      "summary": "Innovaccer has expanded its Gravity Voice AI platform through a new integration with Grok Voice, bringing advanced conversational AI capabilities into health...",
+      "title": "NHS Launches World's Largest AI-Assisted Breast Cancer Screening Trial",
+      "date": "2026-11-25",
+      "url": "https://hlth.com/insights/news/nhs-launches-world-s-largest-ai-assisted-breast-cancer-screening-trial",
+      "summary": "The UK's National Health Service (NHS) has begun recruiting participants for EDITH, described as the world's largest trial of AI-assisted breast cancer scree...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "MHRA and NICE Launch Regulatory Sandbox for AI-Powered Mental Health Technologies",
+      "date": "2026-11-25",
+      "url": "https://hlth.com/insights/news/mhra-and-nice-launch-regulatory-sandbox-for-ai-powered-mental-health-technologies",
+      "summary": "The UK's Medicines and Healthcare products Regulatory Agency (MHRA) and National Institute for Health and Care Excellence (NICE) have launched a regulatory s...",
+      "domains": [
+        "Behavioral Health & Digital Therapeutics"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Leash Biosciences Raises $11M to Advance AI-Powered Drug Discovery",
+      "date": "2026-11-25",
+      "url": "https://hlth.com/insights/news/leash-biosciences-raises-11m-to-advance-ai-powered-drug-discovery",
+      "summary": "Leash Biosciences has raised $11 million in seed funding to expand its AI-driven drug discovery platform, which combines automated laboratory experiments wit...",
       "domains": [
         "Uncategorized"
       ],
@@ -83,6 +103,27 @@
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
     {
+      "title": "Innovaccer Integrates Grok Voice to Expand AI-Powered Healthcare Automation",
+      "date": "2026-11-24",
+      "url": "https://hlth.com/insights/news/innovaccer-integrates-grok-voice-to-expand-ai-powered-healthcare-automation",
+      "summary": "Innovaccer has expanded its Gravity Voice AI platform through a new integration with Grok Voice, bringing advanced conversational AI capabilities into health...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "DiMe Launches Framework to Guide AI Investment in Healthcare Navigation",
+      "date": "2026-11-23",
+      "url": "https://hlth.com/insights/news/dime-launches-framework-to-guide-ai-investment-in-healthcare-navigation",
+      "summary": "The Digital Medicine Society (DiMe) has released an open-access framework designed to help healthcare organizations evaluate AI investments in patient naviga...",
+      "domains": [
+        "Patient Access and Engagement",
+        "Care Operations and Coordination"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
       "title": "Philips Launches Cloud-Based Imaging Platform to Integrate AI and Advanced Visualization",
       "date": "2026-11-23",
       "url": "https://hlth.com/insights/news/philips-launches-cloud-based-imaging-platform-to-integrate-ai-and-advanced-visualization",
@@ -99,17 +140,6 @@
       "summary": "Aetna has introduced Aetna For You and Baby, a new maternal health program designed to provide coordinated care for pregnant women, new mothers and infants. ...",
       "domains": [
         "Uncategorized"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "DiMe Launches Framework to Guide AI Investment in Healthcare Navigation",
-      "date": "2026-11-23",
-      "url": "https://hlth.com/insights/news/dime-launches-framework-to-guide-ai-investment-in-healthcare-navigation",
-      "summary": "The Digital Medicine Society (DiMe) has released an open-access framework designed to help healthcare organizations evaluate AI investments in patient naviga...",
-      "domains": [
-        "Patient Access and Engagement",
-        "Care Operations and Coordination"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
@@ -241,36 +271,6 @@
       "summary": "Viz.ai and Wolters Kluwer Health have announced a partnership to bring AI-powered patient identification, care coordination and evidence-based clinical guida...",
       "domains": [
         "Care Operations and Coordination"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "Doximity Partners With NewYork-Presbyterian to Expand Clinical AI Adoption",
-      "date": "2026-11-16",
-      "url": "https://hlth.com/insights/news/doximity-partners-with-newyork-presbyterian-to-expand-clinical-ai-adoption",
-      "summary": "Doximity is expanding its partnership with NewYork-Presbyterian to provide clinicians across the health system, Columbia University Vagelos College of Physic...",
-      "domains": [
-        "Clinical Decision Support"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "Wolters Kluwer Acquires AgileMD for Up to $100M to Expand AI-Powered Clinical Decision Support",
-      "date": "2026-11-16",
-      "url": "https://hlth.com/insights/news/wolters-kluwer-acquires-agilemd-for-up-to-100m-to-expand-ai-powered-clinical-decision-support",
-      "summary": "Wolters Kluwer Health has signed a definitive agreement to acquire AgileMD, a clinical decision support company, for up to $100 million. The transaction incl...",
-      "domains": [
-        "Clinical Decision Support"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "Dyania Health Partners With NVIDIA to Deploy Clinical AI Within Hospital Systems",
-      "date": "2026-11-16",
-      "url": "https://hlth.com/insights/news/dyania-health-partners-with-nvidia-to-deploy-clinical-ai-within-hospital-systems",
-      "summary": "Dyania Health has announced a collaboration with NVIDIA to bring advanced AI-powered clinical reasoning directly into hospital infrastructure, allowing healt...",
-      "domains": [
-        "Clinical Decision Support"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     }
