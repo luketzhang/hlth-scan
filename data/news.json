@@ -1,6 +1,6 @@
 {
   "source": "https://hlth.com/insights/news",
-  "updated_at": "2026-11-26T08:38:43.712870+00:00",
+  "updated_at": "2026-11-26T09:48:54.129022+00:00",
   "articles": [
     {
       "title": "Register | ViVE Event 2027 | Nashville, TN",
@@ -53,6 +53,46 @@
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
     {
+      "title": "DeepHealth Receives FDA Clearance for AI Tool Predicting Five-Year Breast Cancer Risk",
+      "date": "2026-11-26",
+      "url": "https://hlth.com/insights/news/deephealth-receives-fda-clearance-for-ai-tool-predicting-five-year-breast-cancer-risk",
+      "summary": "DeepHealth, a subsidiary of RadNet, has received FDA 510(k) clearance for Mammo Risk, an AI-powered tool that estimates a woman's risk of developing breast c...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "WebMD Ignite Partners With OpenAI to Bring ChatGPT Advertising to Health Systems",
+      "date": "2026-11-26",
+      "url": "https://hlth.com/insights/news/webmd-ignite-partners-with-openai-to-bring-chatgpt-advertising-to-health-systems",
+      "summary": "WebMD Ignite has announced a collaboration with OpenAI to introduce advertising opportunities within ChatGPT for eligible healthcare organizations. The offer...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Sanofi to Acquire Insmed for $41B to Expand Respiratory Disease Portfolio",
+      "date": "2026-11-26",
+      "url": "https://hlth.com/insights/news/sanofi-to-acquire-insmed-for-41b-to-expand-respiratory-disease-portfolio",
+      "summary": "Sanofi has announced a definitive agreement to acquire U.S.-based biopharmaceutical company Insmed for approximately $41 billion in cash, strengthening its p...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Leash Biosciences Raises $11M to Advance AI-Powered Drug Discovery",
+      "date": "2026-11-25",
+      "url": "https://hlth.com/insights/news/leash-biosciences-raises-11m-to-advance-ai-powered-drug-discovery",
+      "summary": "Leash Biosciences has raised $11 million in seed funding to expand its AI-driven drug discovery platform, which combines automated laboratory experiments wit...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
       "title": "NHS Launches World's Largest AI-Assisted Breast Cancer Screening Trial",
       "date": "2026-11-25",
       "url": "https://hlth.com/insights/news/nhs-launches-world-s-largest-ai-assisted-breast-cancer-screening-trial",
@@ -73,10 +113,10 @@
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
     {
-      "title": "Leash Biosciences Raises $11M to Advance AI-Powered Drug Discovery",
-      "date": "2026-11-25",
-      "url": "https://hlth.com/insights/news/leash-biosciences-raises-11m-to-advance-ai-powered-drug-discovery",
-      "summary": "Leash Biosciences has raised $11 million in seed funding to expand its AI-driven drug discovery platform, which combines automated laboratory experiments wit...",
+      "title": "Innovaccer Integrates Grok Voice to Expand AI-Powered Healthcare Automation",
+      "date": "2026-11-24",
+      "url": "https://hlth.com/insights/news/innovaccer-integrates-grok-voice-to-expand-ai-powered-healthcare-automation",
+      "summary": "Innovaccer has expanded its Gravity Voice AI platform through a new integration with Grok Voice, bringing advanced conversational AI capabilities into health...",
       "domains": [
         "Uncategorized"
       ],
@@ -103,27 +143,6 @@
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
     {
-      "title": "Innovaccer Integrates Grok Voice to Expand AI-Powered Healthcare Automation",
-      "date": "2026-11-24",
-      "url": "https://hlth.com/insights/news/innovaccer-integrates-grok-voice-to-expand-ai-powered-healthcare-automation",
-      "summary": "Innovaccer has expanded its Gravity Voice AI platform through a new integration with Grok Voice, bringing advanced conversational AI capabilities into health...",
-      "domains": [
-        "Uncategorized"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "DiMe Launches Framework to Guide AI Investment in Healthcare Navigation",
-      "date": "2026-11-23",
-      "url": "https://hlth.com/insights/news/dime-launches-framework-to-guide-ai-investment-in-healthcare-navigation",
-      "summary": "The Digital Medicine Society (DiMe) has released an open-access framework designed to help healthcare organizations evaluate AI investments in patient naviga...",
-      "domains": [
-        "Patient Access and Engagement",
-        "Care Operations and Coordination"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
       "title": "Philips Launches Cloud-Based Imaging Platform to Integrate AI and Advanced Visualization",
       "date": "2026-11-23",
       "url": "https://hlth.com/insights/news/philips-launches-cloud-based-imaging-platform-to-integrate-ai-and-advanced-visualization",
@@ -140,6 +159,17 @@
       "summary": "Aetna has introduced Aetna For You and Baby, a new maternal health program designed to provide coordinated care for pregnant women, new mothers and infants. ...",
       "domains": [
         "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "DiMe Launches Framework to Guide AI Investment in Healthcare Navigation",
+      "date": "2026-11-23",
+      "url": "https://hlth.com/insights/news/dime-launches-framework-to-guide-ai-investment-in-healthcare-navigation",
+      "summary": "The Digital Medicine Society (DiMe) has released an open-access framework designed to help healthcare organizations evaluate AI investments in patient naviga...",
+      "domains": [
+        "Patient Access and Engagement",
+        "Care Operations and Coordination"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
@@ -241,36 +271,6 @@
       "domains": [
         "Care Operations and Coordination",
         "Clinical Decision Support"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "Calibrate and Withings Study Finds Comprehensive Care Boosts GLP-1 Weight Loss by Over 60%",
-      "date": "2026-11-17",
-      "url": "https://hlth.com/insights/news/calibrate-and-withings-study-finds-comprehensive-care-boosts-glp-1-weight-loss-by-over-60",
-      "summary": "Calibrate Health and Withings have released findings from a two-year real-world study showing that combining GLP-1 medications with comprehensive clinical ca...",
-      "domains": [
-        "Uncategorized"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "Apple Partners With OpenEvidence to Launch New Health Research Study",
-      "date": "2026-11-17",
-      "url": "https://hlth.com/insights/news/apple-partners-with-openevidence-to-launch-new-health-research-study",
-      "summary": "Apple has launched the Apple Health AI Usage Study in collaboration with OpenEvidence to investigate how individuals interact with AI-powered health informat...",
-      "domains": [
-        "Uncategorized"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "Viz.ai and Wolters Kluwer Partner to Integrate AI-Powered Care Coordination With UpToDate Clinical Evidence",
-      "date": "2026-11-17",
-      "url": "https://hlth.com/insights/news/viz-ai-and-wolters-kluwer-partner-to-integrate-ai-powered-care-coordination-with-uptodate-clinical-evidence",
-      "summary": "Viz.ai and Wolters Kluwer Health have announced a partnership to bring AI-powered patient identification, care coordination and evidence-based clinical guida...",
-      "domains": [
-        "Care Operations and Coordination"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     }
