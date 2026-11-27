@@ -1,6 +1,6 @@
 {
   "source": "https://hlth.com/insights/news",
-  "updated_at": "2026-11-27T08:24:30.793541+00:00",
+  "updated_at": "2026-11-27T09:41:14.506052+00:00",
   "articles": [
     {
       "title": "Register | ViVE Event 2027 | Nashville, TN",
@@ -53,10 +53,30 @@
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
     {
-      "title": "DeepHealth Receives FDA Clearance for AI Tool Predicting Five-Year Breast Cancer Risk",
-      "date": "2026-11-26",
-      "url": "https://hlth.com/insights/news/deephealth-receives-fda-clearance-for-ai-tool-predicting-five-year-breast-cancer-risk",
-      "summary": "DeepHealth, a subsidiary of RadNet, has received FDA 510(k) clearance for Mammo Risk, an AI-powered tool that estimates a woman's risk of developing breast c...",
+      "title": "Waystar Expands Google Cloud Partnership to Bring AI-Powered Revenue Cycle Management to Healthcare",
+      "date": "2026-11-27",
+      "url": "https://hlth.com/insights/news/waystar-expands-google-cloud-partnership-to-bring-ai-powered-revenue-cycle-management-to-healthcare",
+      "summary": "Waystar has announced an expansion of its partnership with Google Cloud to integrate its AltitudeAI revenue cycle management capabilities into Gemini for Hea...",
+      "domains": [
+        "Care Operations and Coordination"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "athenaInstitute Report Highlights Growing Chronic Disease Burden and Primary Care Challenges in Rural America",
+      "date": "2026-11-27",
+      "url": "https://hlth.com/insights/news/athenainstitute-report-highlights-growing-chronic-disease-burden-and-primary-care-challenges-in-rural-america",
+      "summary": "A new report from athenaInstitute, athenahealth's research initiative, reveals that rural Americans face significantly higher rates of chronic disease than p...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "Neuralink Receives FDA Approval to Launch Pivotal Brain Implant Trial for ALS Patients",
+      "date": "2026-11-27",
+      "url": "https://hlth.com/insights/news/neuralink-receives-fda-approval-to-launch-pivotal-brain-implant-trial-for-als-patients",
+      "summary": "Neuralink has received authorization from the U.S. Food and Drug Administration (FDA) to launch LINK, its first pivotal clinical trial evaluating an implanta...",
       "domains": [
         "Uncategorized"
       ],
@@ -83,10 +103,10 @@
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
     {
-      "title": "Leash Biosciences Raises $11M to Advance AI-Powered Drug Discovery",
-      "date": "2026-11-25",
-      "url": "https://hlth.com/insights/news/leash-biosciences-raises-11m-to-advance-ai-powered-drug-discovery",
-      "summary": "Leash Biosciences has raised $11 million in seed funding to expand its AI-driven drug discovery platform, which combines automated laboratory experiments wit...",
+      "title": "DeepHealth Receives FDA Clearance for AI Tool Predicting Five-Year Breast Cancer Risk",
+      "date": "2026-11-26",
+      "url": "https://hlth.com/insights/news/deephealth-receives-fda-clearance-for-ai-tool-predicting-five-year-breast-cancer-risk",
+      "summary": "DeepHealth, a subsidiary of RadNet, has received FDA 510(k) clearance for Mammo Risk, an AI-powered tool that estimates a woman's risk of developing breast c...",
       "domains": [
         "Uncategorized"
       ],
@@ -113,10 +133,10 @@
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
     {
-      "title": "Innovaccer Integrates Grok Voice to Expand AI-Powered Healthcare Automation",
-      "date": "2026-11-24",
-      "url": "https://hlth.com/insights/news/innovaccer-integrates-grok-voice-to-expand-ai-powered-healthcare-automation",
-      "summary": "Innovaccer has expanded its Gravity Voice AI platform through a new integration with Grok Voice, bringing advanced conversational AI capabilities into health...",
+      "title": "Leash Biosciences Raises $11M to Advance AI-Powered Drug Discovery",
+      "date": "2026-11-25",
+      "url": "https://hlth.com/insights/news/leash-biosciences-raises-11m-to-advance-ai-powered-drug-discovery",
+      "summary": "Leash Biosciences has raised $11 million in seed funding to expand its AI-driven drug discovery platform, which combines automated laboratory experiments wit...",
       "domains": [
         "Uncategorized"
       ],
@@ -143,6 +163,27 @@
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
     {
+      "title": "Innovaccer Integrates Grok Voice to Expand AI-Powered Healthcare Automation",
+      "date": "2026-11-24",
+      "url": "https://hlth.com/insights/news/innovaccer-integrates-grok-voice-to-expand-ai-powered-healthcare-automation",
+      "summary": "Innovaccer has expanded its Gravity Voice AI platform through a new integration with Grok Voice, bringing advanced conversational AI capabilities into health...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "DiMe Launches Framework to Guide AI Investment in Healthcare Navigation",
+      "date": "2026-11-23",
+      "url": "https://hlth.com/insights/news/dime-launches-framework-to-guide-ai-investment-in-healthcare-navigation",
+      "summary": "The Digital Medicine Society (DiMe) has released an open-access framework designed to help healthcare organizations evaluate AI investments in patient naviga...",
+      "domains": [
+        "Patient Access and Engagement",
+        "Care Operations and Coordination"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
       "title": "Philips Launches Cloud-Based Imaging Platform to Integrate AI and Advanced Visualization",
       "date": "2026-11-23",
       "url": "https://hlth.com/insights/news/philips-launches-cloud-based-imaging-platform-to-integrate-ai-and-advanced-visualization",
@@ -159,17 +200,6 @@
       "summary": "Aetna has introduced Aetna For You and Baby, a new maternal health program designed to provide coordinated care for pregnant women, new mothers and infants. ...",
       "domains": [
         "Uncategorized"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "DiMe Launches Framework to Guide AI Investment in Healthcare Navigation",
-      "date": "2026-11-23",
-      "url": "https://hlth.com/insights/news/dime-launches-framework-to-guide-ai-investment-in-healthcare-navigation",
-      "summary": "The Digital Medicine Society (DiMe) has released an open-access framework designed to help healthcare organizations evaluate AI investments in patient naviga...",
-      "domains": [
-        "Patient Access and Engagement",
-        "Care Operations and Coordination"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     },
@@ -240,37 +270,6 @@
       "summary": "Noom has launched Noom Band, a wearable device designed to integrate continuous health monitoring into its metabolic health platform. Developed in partnershi...",
       "domains": [
         "Remote Monitoring"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "Ambience Healthcare Launches AI Care Orchestration Suite to Improve Hospital Discharges and Case Mix Index",
-      "date": "2026-11-18",
-      "url": "https://hlth.com/insights/news/ambience-healthcare-launches-ai-care-orchestration-suite-to-improve-hospital-discharges-and-case-mix-index",
-      "summary": "Ambience Healthcare has introduced new AI-powered care orchestration capabilities within its Ambience Chorus platform, expanding beyond clinical documentatio...",
-      "domains": [
-        "Care Operations and Coordination"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "Humana Launches Nationwide Gold Card Program for Healthcare Providers",
-      "date": "2026-11-18",
-      "url": "https://hlth.com/insights/news/humana-launches-nationwide-gold-card-program-for-healthcare-providers",
-      "summary": "Humana has announced the launch of a nationwide Gold Card program designed to simplify prior authorization requirements for healthcare providers with a demon...",
-      "domains": [
-        "Care Operations and Coordination"
-      ],
-      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
-    },
-    {
-      "title": "Suki Launches AI Platform to Automate Prior Authorization and Clinical Documentation",
-      "date": "2026-11-18",
-      "url": "https://hlth.com/insights/news/suki-launches-ai-platform-to-automate-prior-authorization-and-clinical-documentation",
-      "summary": "Suki has launched Suki OS, a new AI-powered platform designed to extend clinical documentation technology into broader healthcare workflows, including prior ...",
-      "domains": [
-        "Care Operations and Coordination",
-        "Clinical Decision Support"
       ],
       "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
     }
