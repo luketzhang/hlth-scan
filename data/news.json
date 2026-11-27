@@ -1,6 +1,6 @@
 {
   "source": "https://hlth.com/insights/news",
-  "updated_at": "2026-11-27T17:30:23.605681+00:00",
+  "updated_at": "2026-11-27T18:19:10.279565+00:00",
   "articles": [
     {
       "title": "Register | ViVE Event 2027 | Nashville, TN",
@@ -248,6 +248,16 @@
       "date": "2026-11-19",
       "url": "https://hlth.com/insights/news/isomorphic-labs-secures-5b-to-accelerate-ai-powered-drug-discovery",
       "summary": "Isomorphic Labs has raised $5 billion in new financing to accelerate the development of its AI-powered drug discovery platform and expand its pharmaceutical ...",
+      "domains": [
+        "Uncategorized"
+      ],
+      "why_it_matters": "This development may affect healthcare technology adoption, care delivery, or industry strategy. Review the source for specifics."
+    },
+    {
+      "title": "UnitedHealthcare Launches Community Pharmacy-Based Care Model",
+      "date": "2026-11-19",
+      "url": "https://hlth.com/insights/news/unitedhealthcare-launches-community-pharmacy-based-care-model",
+      "summary": "UnitedHealthcare has introduced a new care model that places community pharmacies at the center of preventive healthcare and chronic disease management. The ...",
       "domains": [
         "Uncategorized"
       ],
